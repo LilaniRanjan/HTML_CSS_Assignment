@@ -1,0 +1,81 @@
+
+#home2{
+  text-decoration: none;
+  color:black;
+}
+
+li:hover{
+  background-color:rgb(255,255,255);
+  color:white;
+
+}
+
+#home1{
+  background-color: rgb(232,232,232);
+  height: 50px;
+}
+
+li{
+  display:inline-block;
+  height: 50px;
+  padding: 0 15px;
+  line-height: 50px;
+}
+
+#show{
+  background-color: yellow;
+}
+
+
+body{
+  background-color: rgb(176,176,176);
+}
+
+fieldset{
+  width:14%;
+  background-color: rgb(255,255,255);
+  margin: 0 auto;
+
+}
+
+#logi{
+  width: 180px;
+  display: inline-block;
+  padding: 6px;
+  font-family: Arial;
+  font-size: 12px;
+  font-weight: bold;
+  color: white;
+  text-decoration: none;
+  letter-spacing: 1.5px;
+  background-color: green;
+  margin-left: 4px;
+}
+
+#googlea{
+  width: 180px;
+  display: inline-block;
+  padding: 6px;
+  font-family: Arial;
+  font-size: 12px;
+  font-weight: bold;
+  color: white;
+  text-decoration: none;
+  letter-spacing: 1.5px;
+  background-color: red;
+  margin-left: 4px;
+}
+
+#fb{
+  width: 180px;
+  display: inline-block;
+  padding: 6px;
+  font-family: Arial;
+  font-size: 12px;
+  font-weight: bold;
+  color: white;
+  text-decoration: none;
+  letter-spacing: 1.5px;
+  background-color: blue;
+  margin-left: 4px;
+}

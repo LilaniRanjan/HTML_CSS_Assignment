@@ -1,0 +1,22 @@
+#home2{
+  text-decoration: none;
+  color:black;
+}
+
+#show:hover{
+  background-color:rgb(255,255,255);
+  color:white;
+
+}
+
+#home1{
+  background-color: rgb(232,232,232);
+  height: 50px;
+}
+
+#show{
+  display:inline-block;
+  height: 50px;
+  padding: 0 15px;
+  line-height: 50px;
+}

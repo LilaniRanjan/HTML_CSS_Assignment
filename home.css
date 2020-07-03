@@ -1,0 +1,122 @@
+#home2{
+  text-decoration: none;
+  color:black;
+}
+
+#show:hover{
+  background-color:rgb(255,255,255);
+  color:white;
+
+}
+
+#home1{
+  background-color: rgb(232,232,232);
+  height: 50px;
+}
+
+#show{
+  display:inline-block;
+  height: 50px;
+  padding: 0 15px;
+  line-height: 50px;
+}
+
+
+h1{
+  letter-spacing: 6px
+}
+
+#unorder{
+  background-color:rgb(232,232,232);
+  padding-bottom: 12px;
+  margin: 0 auto;
+}
+
+#padd{
+  padding-left: 400px ;
+  padding:bottom: 100px;
+  margin-bottom: 5px;
+
+}
+
+a{
+  text-decoration: none;
+  color:black;
+}
+
+
+li{
+  background-color: rgb(169,169,169);
+  display: inline-block;
+  padding: 5px;
+  word-spacing: 4px;
+}
+
+li:hover{
+  background-color:#b3ecff;
+  color:white;
+
+}
+
+
+#filmtrackr{
+  width: 68%;
+  align:center;
+  background-color: rgb(255,255,255);
+  margin: 0 auto;
+  padding-bottom: 50px;
+  padding-top: 5px;
+
+}
+
+h4{
+
+  padding-top: 12px;
+  padding-left: 10px;
+  padding-bottom: 12px;
+  display: inline;
+
+}
+
+
+body{
+  background-color: rgb(176,176,176);
+}
+
+img{
+  padding: 9px;
+}
+
+#named1{
+  display: inline;
+
+}
+
+#search1{
+  float:right;
+}
+
+#named1{
+  padding-left: 16px;
+  display: inline;
+}
+
+#named2{
+  display: inline;
+  padding-left: 120px;
+}
+
+#named3{
+  display: inline;
+  padding-left: 155px;
+}
+
+#named4{
+  display:inline;
+  padding-left: 90px;
+}
+
+#sear{
+  background-color:rgb(232,232,232);
+  padding: 10px;
+}

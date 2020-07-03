@@ -1,0 +1,32 @@
+body{
+  background-color: rgb(176,176,176);
+}
+
+#game{
+  background-color: rgb(255,255,255);
+  width: 60%;
+  margin: 0 auto;
+  padding-bottom: 190px;
+  padding-top: 5px;
+}
+
+#but{
+  float: left;
+  margin-left: 10px;
+  padding: 4px;
+}
+
+a{
+  width: 180px;
+  display: inline-block;
+  padding: 6px;
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: bold;
+  color: white;
+  text-decoration: none;
+  letter-spacing: 1.5px;
+  background-color: blue;
+  margin-left: 4px;
+
+}
